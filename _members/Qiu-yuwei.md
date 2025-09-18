@@ -12,7 +12,7 @@ email: yuwei.qiu@polyu.edu.hk
 
 <h3 style="text-align: left;">Education Background:</h3>
 
-PhD in Chemistry, City University of hong Kong, China Hong Kong
+PhD in Chemistry, City University of Hong Kong, Hong Kong, China
 
 Master in Translational Medicine, Xiamen University, China
 
