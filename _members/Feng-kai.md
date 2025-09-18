@@ -16,7 +16,7 @@ email: fsnkai.feng@polyu.edu.hk
 
 2014-2017,  Master in Chemistry, Inner Mongolia University, China
 
-2010-2014,  Bachelor in Chemistry, Qufu Normal University,China
+2010-2014,  Bachelor in Chemistry, Qufu Normal University, China
 
 
 <h3 style="text-align: left;">Research interests: </h3>
@@ -26,6 +26,7 @@ Self-assembled cellulose nanocrystals materials; stimuli-responsive structural c
 Cellulose-based passive radiative cooling materials 
 
 Smart thermal management materials (electrochromic, radiative cooling/photothermal heating)
+
 
 
 
