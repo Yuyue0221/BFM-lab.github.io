@@ -10,4 +10,12 @@ email: fsnkai.feng@polyu.edu.hk
 ---
 Co-PI Prof. CHEN Sheng
 
-Research interests: Assembled cellulose Nanocrystal; smart thermal management; biodegradable drone.
+Education Background:
+2017-2021    PhD in Polymer Chemistry and Physics, Renmin University of China, China
+2014-2017    Master in Chemistry, Inner Mongolia University, China
+2010-2014    Bachelor in Chemistry, Qufu Normal University,China
+
+Research interests: 
+Self-assembled cellulose nanocrystals materials; stimuli-responsive structural color changing materials
+Cellulose-based passive radiative cooling materials 
+Smart thermal management materials (electrochromic, radiative cooling/photothermal heating)
