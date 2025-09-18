@@ -19,6 +19,7 @@ Education Background:
 2010-2014    Bachelor in Chemistry, Qufu Normal University,China
 
 
+
 Research interests: 
 
 Self-assembled cellulose nanocrystals materials; stimuli-responsive structural color changing materials
@@ -26,6 +27,7 @@ Self-assembled cellulose nanocrystals materials; stimuli-responsive structural c
 Cellulose-based passive radiative cooling materials 
 
 Smart thermal management materials (electrochromic, radiative cooling/photothermal heating)
+
 
 
 
