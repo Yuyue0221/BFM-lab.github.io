@@ -8,9 +8,9 @@ group: postdoc
 image: images/Feng kai.jpg
 email: fsnkai.feng@polyu.edu.hk
 ---
-Co-PI Prof. CHEN Sheng
+<h3 style="text-align: left;">Co-PI Prof. CHEN Sheng</h3>
 
-Education Background:
+<h3 style="text-align: left;">Education Background:</h3>
 
 2017-2021    PhD in Polymer Chemistry and Physics, Renmin University of China, China
 
@@ -19,14 +19,14 @@ Education Background:
 2010-2014    Bachelor in Chemistry, Qufu Normal University,China
 
 
-
-Research interests: 
+<h3 style="text-align: left;">Research interests: </h3>
 
 Self-assembled cellulose nanocrystals materials; stimuli-responsive structural color changing materials
 
 Cellulose-based passive radiative cooling materials 
 
 Smart thermal management materials (electrochromic, radiative cooling/photothermal heating)
+
 
 
 
