@@ -8,5 +8,15 @@ group: pg
 image: images/Wang shuqi.jpg
 email: 15840130507@163.com
 ---
+<h3 style="text-align: left;">Education Background:</h3>
 
-Research interests: Drug delivery ability of silk nanoparticles.
+2023-2024, MSc in Pharmaceutical Engineering, Unibersity of Sheffield, U.K.
+
+2020-2023, BSc in Pharmaceutical Sciences, Queen's University of Belfast, U.K.
+
+2019-2023, BSc in Pharmaceutical Sciences, China Medical University, China
+
+<h3 style="text-align: left;">Research interests: </h3>
+  
+Drug delivery ability of silk nanoparticles.
+
