@@ -10,7 +10,7 @@ email: yuwei.qiu@polyu.edu.hk
 ---
 <h3 style="text-align: left;">Co-PI Prof. CHEN Sheng</h3>
 
-<h3 style="text-align: left;">Education Background:</h3>
+<h3 style="text-align: left;">Education Background</h3>
 
 PhD in Chemistry, City University of Hong Kong, Hong Kong, China
 
@@ -18,6 +18,6 @@ Master in Translational Medicine, Xiamen University, China
 
 Bachelor in Applied Chemistry, Anhui Normal University, China
 
-<h3 style="text-align: left;">Research Interests: </h3>
+<h3 style="text-align: left;">Research Interests </h3>
 
 Preparation of biodegradable bio-based multifunctional nanomaterials and their application in food preservation                                
