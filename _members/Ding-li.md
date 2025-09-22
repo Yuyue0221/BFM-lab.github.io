@@ -16,10 +16,14 @@ M.S. in Food Science and Engineering, South China University of Technology, Chin
 B.S. in Food Science and Engineering, South China University of Technology, China. 2013-2017.
 
 <h3 style="text-align: left;">Research interests:</h3>
-Starch structure and functionality.
+Starch structure and functionality
+
 Potato whole foods
+
 Chemical modified starch and starch self-assembly
+
 Starch nanomaterials
+
 Crop genetics.
 
 <h3 style="text-align: left;">Publications</h3>
@@ -43,3 +47,4 @@ Crop genetics.
 
 [10] L. Ding, S. Ebrahimi, X. Liu, S. Persson, J.J.K. Kirkensgaard, K. Enemark-Rasmusse, J. Chang, S. Chen, A. Blennow, T.P. Czaja, Y. Zhong, Characterizing maize starch gelatinization by Low-Field NMR spectroscopy, Carbohydrate polymers 369 (2025) 124292.
 [11] W. Liang, K. Herburger, K. Guo, J.J.K. Kirkensgaard, K.H. Hebelstrup, S. Persson, S. Chen, Y. Zhong, A. Blennow*, L. Ding*, Comparative analysis of supplemental irrigation effects on structure and digestion of normal and amylose-only barley starches, Carbohydrate polymers 370 (2025) 124378.
+
