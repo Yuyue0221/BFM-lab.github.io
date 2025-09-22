@@ -3,8 +3,8 @@ title: WU Huangzhipeng
 search:
   - H. WU
   - Huangzhipeng
-role: master-g
-group: Research Assistants
+role: ra
+group: ra
 image: images/Wu huangzhipeng.jpg
 email: huangzhipeng.wu@connect.polyu.hk
 ---
@@ -18,4 +18,5 @@ Master
 <h3 style="text-align: left;">Research interests: </h3>
   
 In vitro digestion; PDA photonic crystals
+
 
