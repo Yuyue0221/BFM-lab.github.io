@@ -20,6 +20,7 @@ email: 15840130507@163.com
   
 nanoparticles: self-assembled tannic acid nanoparticles, Drug delivery ability of silk nanoparticles under different pH.
 
-Food process: HAMS cookies
+Food process: High Amylose Corn Starch cookies
 
 Chinese Herbal Medicine
+
