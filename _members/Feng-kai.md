@@ -45,9 +45,10 @@ Smart thermal management materials (electrochromic, radiative cooling/phototherm
 
 8. <strong>Feng, K.</strong>; Wei, G.; Lu, M.; Gao, N.; Wang, Y.; Jin, Z*. Optimizing the performance of the near-infrared (NIR) photothermal conversion via modulating the domain size of the chiral nematic phase in co-assembled cellulose nanocrystal composite films. Journal of Materials Chemistry C 2022, 10, 13183-13190.
 
-9.<strong> Feng, K.</strong>; Lu, M.; Wei, G.; Tang, F.; Jin, Z*. Cellulose Nanocrystals/Poly(3,4-ethylenedioxythiophene) Photonic Crystal Composites with Electrochromic Properties for Smart Windows, Displays, and Anticounterfeiting/Encryption Applications. ACS Applied Nano Materials 2022, 5, 10848-10859.
+9. <strong> Feng, K.</strong>; Lu, M.; Wei, G.; Tang, F.; Jin, Z*. Cellulose Nanocrystals/Poly(3,4-ethylenedioxythiophene) Photonic Crystal Composites with Electrochromic Properties for Smart Windows, Displays, and Anticounterfeiting/Encryption Applications. ACS Applied Nano Materials 2022, 5, 10848-10859.
 
 10. <strong>Feng, K.</strong>; Dong, C.; Gao, Y.; and Jin. Z*. A Green and Iridescent Composite of Cellulose Nanocrystals with Wide Solvent Resistance and Strong Mechanical Properties. ACS Sustainable Chemistry & Engineering 2021, 9, 6764-6775.
+
 
 
 
