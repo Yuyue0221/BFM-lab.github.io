@@ -14,9 +14,10 @@ email: 24051023G@connect.polyu.hk
 
 2019-2023, B.S. in Horticulture, School of Sichuan Agricultural University, China
 
-<h3 style="text-align: left;">Research interests:</h3>
+<h3 style="text-align: left;">Research interests </h3>
 
 Self-assembled structural color
 
 preparation of nanoparticles from natural products
+
 
