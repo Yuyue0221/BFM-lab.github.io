@@ -8,16 +8,17 @@ group: ra
 image: images/Yang jiyu.jpg
 email: jiyuyang@polyu.edu.hk
 ---
-<h3 style="text-align: left;">Educatioin Background:</h3>
+<h3 style="text-align: left;">Educatioin Background </h3>
 
 2021-2024, M.S. in Food Science, Huazhong Agricultural University, China     
 
 2017-2021, B.S. in Food Science, Wuhan Polytechnic University, China
 
-<h3 style="text-align: left;">Research interests: </h3>
+<h3 style="text-align: left;">Research interests </h3>
 
 Structural color: preparation, control, and application of natural origin structural color
 
 Nanoparticles: nanosizing of natural-based materials and functional improvement
 
 Healthy food: foods and snacks designed to help control weight 
+
