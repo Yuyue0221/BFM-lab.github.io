@@ -12,7 +12,8 @@ email: qzlneau@163.com
 
 2020-2025,  Bachelaor, Northeast Agricultural University, China
 
-<h3 style="text-align: left;">Research interests: </h3>
+<h3 style="text-align: left;">Research interests </h3>
 
 Gut microbiota
+
 
