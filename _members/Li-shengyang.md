@@ -14,8 +14,9 @@ Bachelor of Engineering, Jiangnan University
 
 Bachelor of Science (Honours), Massey University
 
-<h3 style="text-align: left;">Research interests: </h3>
+<h3 style="text-align: left;">Research interests </h3>
 
 Design and synthesis of bio-based nanoparticles using starch, proteins, polyphenols, and flavonoids for drug delivery and other functional applications.
 
 Investigation of starch multiscale structure using enzymatic hydrolysis and other biochemical approaches.
+
