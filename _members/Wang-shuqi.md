@@ -18,10 +18,11 @@ email: 15840130507@163.com
 
 <h3 style="text-align: left;">Research interests </h3>
   
-nanoparticles: self-assembled tannic acid nanoparticles, Drug delivery ability of silk nanoparticles under different pH.
+nanoparticles: self-assembled tannic acid nanoparticles, drug delivery ability of silk nanoparticles under different pH
 
 Food process: High Amylose Corn Starch cookies
 
 Chinese Herbal Medicine
+
 
 
