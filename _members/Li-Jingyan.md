@@ -6,7 +6,6 @@ search:
 role: phd
 group: pg
 image: images/Li Jingyan.jpg
-email: zichen.cao@connect.polyu.hk
 ---
 
 <h3 style="text-align: left;">Education Background</h3>
