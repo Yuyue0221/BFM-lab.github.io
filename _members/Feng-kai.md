@@ -33,7 +33,7 @@ Smart thermal management materials (electrochromic, radiative cooling/phototherm
 
 2. <strong>Feng, K.</strong>; Ma, Y*.; Zhang, L.; Liu, Y.; Liu, Y.; Xing, Z.; Pei, X.; Wu, Y*.; Zhou, F. Electrically controlled smart window for seasonally adaptive thermal management in buildings. Small 2025, 21, 240733.
 
-3. Zhang, L.; <strong>Feng, K*.</strong>; Liu, Y.; Wu, F.; Wu, Y*. et al. Robust UV-curable Dual-crosslinked Coating with Increased Transparency, Long-term Antifogging and Efficient Antibacterial Performances. ACS Applied Polymer Materials 2024, 6, 6645-6657.
+3. Zhang, L.; Feng, K*.; Liu, Y.; Wu, F.; Wu, Y*. et al. Robust UV-curable Dual-crosslinked Coating with Increased Transparency, Long-term Antifogging and Efficient Antibacterial Performances. ACS Applied Polymer Materials 2024, 6, 6645-6657.
 
 4. <strong>Feng, K.</strong>; Zhang, L.; Liu, Y.; Hu, K.; Ma, Z.; Pei, X.; Wu, Y*.; Zhou, F*. Iridescent Transparent Passive Radiative Cooling enabled by Cellulose Nanocrystal Assemblies. Chemical Engineering Journal 2024, 488, 151176.
 
@@ -48,6 +48,7 @@ Smart thermal management materials (electrochromic, radiative cooling/phototherm
 9. <strong> Feng, K.</strong>; Lu, M.; Wei, G.; Tang, F.; Jin, Z*. Cellulose Nanocrystals/Poly(3,4-ethylenedioxythiophene) Photonic Crystal Composites with Electrochromic Properties for Smart Windows, Displays, and Anticounterfeiting/Encryption Applications. ACS Applied Nano Materials 2022, 5, 10848-10859.
 
 10. <strong>Feng, K.</strong>; Dong, C.; Gao, Y.; and Jin. Z*. A Green and Iridescent Composite of Cellulose Nanocrystals with Wide Solvent Resistance and Strong Mechanical Properties. ACS Sustainable Chemistry & Engineering 2021, 9, 6764-6775.
+
 
 
 
