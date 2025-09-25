@@ -4,7 +4,7 @@ search:
   - J. LI
   - Jingyan
 role: phd
-group: phd
+group: pg
 image: images/Li Jingyan.jpg
 email: zichen.cao@connect.polyu.hk
 ---
