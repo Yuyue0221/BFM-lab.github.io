@@ -10,7 +10,7 @@ email: 15840130507@163.com
 ---
 <h3 style="text-align: left;">Education Background</h3>
 
-2023-2024, MSc in Pharmaceutical Engineering, Unibersity of Sheffield, U.K.
+2023-2024, MSc in Pharmaceutical Engineering, University of Sheffield, U.K.
 
 2020-2023, BSc in Pharmaceutical Sciences, Queen's University of Belfast, U.K.
 
@@ -23,6 +23,7 @@ nanoparticles: self-assembled tannic acid nanoparticles, drug delivery ability o
 Food process: High Amylose Corn Starch cookies
 
 Chinese Herbal Medicine
+
 
 
 
