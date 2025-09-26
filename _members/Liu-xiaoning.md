@@ -10,9 +10,9 @@ email: lxn9520@163.com
 ---
 <h3 style="text-align: left;">Education Background</h3>
 
-2018-2022,  Master in Food Science and Engineering, Shanghai Jiao Tong University
+2022-2025,  Master in Food Science and Engineering, Shanghai Jiao Tong University
 
-2022-2025,  Bachelor in Food Science and Engineering, Nanchang University
+2018-2022,  Bachelor in Food Science and Engineering, Nanchang University
 
 <h3 style="text-align: left;">Research interests</h3>
   
@@ -27,6 +27,7 @@ Bioplastics, Starch, Carbohydrate
 <Strong>Liu X.</strong>, Wu Z., Zhang H., Xu Z., Gebre B. A., Sun J., Ma M., Sui Z., & Corke H. (2024) The evolution of granular surface structure and functional properties in rice starch during grain filling. International Journal of Biological Macromolecules, 279, 135523.
 
 Cui Y1., <Strong>Liu X.1</strong>, Lv Q., Chang J., Blennow A., Tian Y., Chen S., Liu X., & Zhong Y. (2026) In situ small-angle X-ray scattering study of the gelatinization mechanism of maize starches with varying amylose content. Food Hydrocolloids, 172, 111951.
+
 
 
 
