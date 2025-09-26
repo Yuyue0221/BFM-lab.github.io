@@ -47,7 +47,7 @@
 {% assign members = yuyue | concat: rest %}
 
 <div class="team-list">
-  {% for member in site.members %}
+  {% for member in members %}
     {% if member.role == include.role and member.group == include.group %}
       {% include portrait.html
         image=member.image
