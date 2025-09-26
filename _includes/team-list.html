@@ -46,12 +46,14 @@
 
 {% assign members = yuyue | concat: rest %}
 
-{% for member in members %}
-  {%- include portrait.html
-    name=member.title
-    link=member.url
-    image=member.image
-    role=member.role
-    mini=include.mini
-  -%}
-{% endfor %}
+<div class="team-list">
+  {% for member in site.members %}
+    {% if member.role == include.role and member.group == include.group %}
+      {% include portrait.html
+        image=member.image
+        name=member.title
+        role=member.role
+        link=member.url %}
+    {% endif %}
+  {% endfor %}
+</div>
