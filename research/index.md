@@ -50,7 +50,7 @@ title: Research
 }
 
 .research-box img {
-  width: 100%;
+  width: 150%;
   height: 230px;
   flex-grow: 1;
   object-fit: fill;
