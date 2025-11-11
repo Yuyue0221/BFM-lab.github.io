@@ -99,11 +99,19 @@ Naturally derived cellulose nanocrystals self-assemble into structural color mat
 <div class="research-section">
 
   <div class="research-box">
-    <img src="{{ "/images/bio-functional materials.png"| relative_url }}" alt="Bio-functional Materials"> 
-    <div class="research-box-title">functional materials</div>
+    <img src="{{ "/images/bio-functional materials.jpg"| relative_url }}" alt="Bio-functional Materials"> 
   </div>
 
 </div>
 
 Our team focuses on developing biofunctional nanomaterials in four key areas: intelligent nanocarriers for precise delivery, starch-based structural color materials for edible pigment innovation, starch-nanozymes for anti-tumor therapy, and starch-based radiative cooling films for sustainable cooling solutions.
 
+<!-- Nanozyme Section -->
+<div class="section-title">Nanozyme</div>
+<div class="research-section">
+
+  <div class="research-box">
+    <img src="{{ "/images/nanozyme.jpg"| relative_url }}" alt="nanozyme"> 
+  </div>
+
+</div>
