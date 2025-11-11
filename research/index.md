@@ -73,7 +73,6 @@ title: Research
 
   <div class="research-box">
     <img src="{{ '/images/conductive hydrogels.jpg' | relative_url }}" alt="conductive hydrogels">
-    <div class="research-box-title">conductive hydrogels</div>
   </div>
 
 </div>
@@ -87,7 +86,6 @@ We are dedicated to designing and synthesizing conductive hydrogels with excepti
 
   <div class="research-box">
     <img src="{{ "/images/structural color materials.jpg" | relative_url }}" alt="structural color materials"> 
-    <div class="research-box-title">structural color materials</div>
   </div>
 
 </div>
