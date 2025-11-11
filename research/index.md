@@ -115,3 +115,24 @@ Our team focuses on developing biofunctional nanomaterials in four key areas: in
   </div>
 
 </div>
+
+<!-- Therapeutical Pharmacology and Novel Biomaterials Section -->
+<div class="section-title">Therapeutical Pharmacology and Novel Biomaterials</div>
+<div class="research-section">
+
+  <div class="research-box">
+    <img src="{{ '/images/multi-omics techniques.jpg' | relative_url }}" alt="multi-omics techniques">
+    <div class="research-box-title">multi-omics techniques</div>
+  </div>
+
+  <div class="research-box">
+    <img src="{{ '/images/advanced therapies.jpg' | relative_url }}" alt="advanced therapies">
+    <div class="research-box-title">advanced therapies</div>
+  </div>
+
+  <div class="research-box">
+    <img src="{{ '/images/intelligent drug delivery systems.jpg' | relative_url }}" alt="intelligent drug delivery systems">
+    <div class="research-box-title">intelligent drug delivery systems</div>
+  </div>
+
+</div>
