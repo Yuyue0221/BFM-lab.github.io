@@ -128,13 +128,13 @@ Our team focuses on developing biofunctional nanomaterials in four key areas: in
     <div class="research-box-title">advanced therapies</div>
   </div>
 
-Integrating cell technology and tissue engineering, we utilize our designed biomaterials as three-dimensional scaffolds. These scaffolds not only deliver cells and bioactive factors but also create a supportive microenvironment in vivo to facilitate the repair and regeneration of damaged tissues and organs.
-
   <div class="research-box">
     <img src="{{ '/images/intelligent drug delivery systems.jpg' | relative_url }}" alt="intelligent drug delivery systems">
     <div class="research-box-title">intelligent drug delivery systems</div>
   </div>
 
 </div>
+
+Integrating cell technology and tissue engineering, we utilize our designed biomaterials as three-dimensional scaffolds. These scaffolds not only deliver cells and bioactive factors but also create a supportive microenvironment in vivo to facilitate the repair and regeneration of damaged tissues and organs.
 
 We develop intelligent biomaterials that can respond to specific disease microenvironmental cues or external stimuli This allows for precise spatiotemporal control over drug release—ensuring the right dose is delivered to the right place at the right time for on-demand therapy.
