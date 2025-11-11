@@ -72,7 +72,7 @@ title: Research
 <div class="research-section">
 
   <div class="research-box">
-    <img src="{{ '/images/conductive hydrogels.jpg' | relative_url }}">
+    <img src="{{ '/images/conductive hydrogels.jpg' | relative_url }}" alt="conductive hydrogels">
     <div class="research-box-title">conductive hydrogels</div>
   </div>
 
@@ -80,27 +80,12 @@ title: Research
 
 We are dedicated to designing and synthesizing conductive hydrogels with exceptional electrical conductivity, long-term stability, mechanical robustness, and superior biocompatibility, and applying them to transformative fields such as brain-machine interfaces, electronic skin, wound dressings, and drug delivery system for advancing bioelectronics and regenerative medicine.
 
-<div class="section-title">Bio-inspired optics</div>
+<div class="section-title">structural color materials</div>
 <div class="research-section">
 
   <div class="research-box">
-    <img src="{{ "/images/source.png" | relative_url }}" alt="Source"> 
-    <div class="research-box-title">Source</div>
-  </div>
-
-  <div class="research-box">
-    <img src="{{ "/images/assembly.png" | relative_url }}" alt="Assembly"> 
-    <div class="research-box-title">Assembly</div>
-  </div>
-
-  <div class="research-box">
-    <img src="{{ "/images/structural-colors.png"| relative_url }}" alt="Structural colors"> 
-    <div class="research-box-title">Structural colors/biomedical</div>
-  </div>
-
-  <div class="research-box">
-    <img src="{{ "/images/beauty-skincare.png"| relative_url }}" alt="Beauty and skin care"> 
-    <div class="research-box-title">Beauty and skin care</div>
+    <img src="{{ "/images/structural color materials.jpg" | relative_url }}" alt="structural color materials"> 
+    <div class="research-box-title">structural color materials</div>
   </div>
 
 </div>
