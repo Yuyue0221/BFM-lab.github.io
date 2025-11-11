@@ -90,6 +90,7 @@ We are dedicated to designing and synthesizing conductive hydrogels with excepti
 
 </div>
 
+Naturally derived cellulose nanocrystals self-assemble into structural color materials, offering sustainable solutions for photonic and functional applications.
 
 <!-- Functional Nutrition Section -->
 <div class="section-title">Functional Nutrition</div>
