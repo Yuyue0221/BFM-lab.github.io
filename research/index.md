@@ -109,7 +109,7 @@ Our team focuses on developing biofunctional nanomaterials in four key areas: in
 <div class="research-section">
 
   <div class="research-box">
-    <img src="{{ "/images/nanozyme.png"| relative_url }}" alt="nanozyme"> 
+    <img src="{{ "/images/nanozyme.jpg"| relative_url }}" alt="nanozyme"> 
   </div>
 
 </div>
