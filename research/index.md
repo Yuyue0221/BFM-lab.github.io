@@ -72,7 +72,7 @@ title: Research
 <div class="research-section">
 
   <div class="research-box">
-    <img src="{{ '/images/conductive hydrogels.png' | relative_url }}" alt="conductive hydrogels">
+    <img src="{{ '/images/conductive hydrogels.jpg' | relative_url }}" alt="conductive hydrogels">
     <div class="research-box-title">conductive hydrogels</div>
   </div>
 
