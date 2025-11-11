@@ -68,7 +68,7 @@ title: Research
 
 
 <!-- conductive hydrogels Section -->
-<div class="section-title">conductive hydrogels</div>
+<div class="section-title">Conductive Hydrogels</div>
 <div class="research-section">
 
   <div class="research-box">
@@ -80,7 +80,9 @@ title: Research
 
 We are dedicated to designing and synthesizing conductive hydrogels with exceptional electrical conductivity, long-term stability, mechanical robustness, and superior biocompatibility, and applying them to transformative fields such as brain-machine interfaces, electronic skin, wound dressings, and drug delivery system for advancing bioelectronics and regenerative medicine.
 
-<div class="section-title">structural color materials</div>
+<!-- Structural Color Materials Section -->
+
+<div class="section-title">Structural Color Materials</div>
 <div class="research-section">
 
   <div class="research-box">
@@ -92,23 +94,16 @@ We are dedicated to designing and synthesizing conductive hydrogels with excepti
 
 Naturally derived cellulose nanocrystals self-assemble into structural color materials, offering sustainable solutions for photonic and functional applications.
 
-<!-- Functional Nutrition Section -->
-<div class="section-title">Functional Nutrition</div>
+<!-- Bio-Functional Materials Section -->
+<div class="section-title">Bio-functional Materials</div>
 <div class="research-section">
 
   <div class="research-box">
-    <img src="{{ "/images/functional-molecules.png"| relative_url }}" alt="Functional molecules"> 
-    <div class="research-box-title">Functional molecules</div>
-  </div>
-
-  <div class="research-box">
-    <img src="{{ "/images/anti-aging.png"| relative_url }}" alt="Anti-aging"> 
-    <div class="research-box-title">Anti-aging</div>
-  </div>
-
-  <div class="research-box">
-    <img src= "{{ "/images/people-pets.png"| relative_url }}" alt="People and Pets"> 
-    <div class="research-box-title">People and Pets</div>
+    <img src="{{ "/images/bio-functional materials.png"| relative_url }}" alt="Bio-functional Materials"> 
+    <div class="research-box-title">functional materials</div>
   </div>
 
 </div>
+
+Our team focuses on developing biofunctional nanomaterials in four key areas: intelligent nanocarriers for precise delivery, starch-based structural color materials for edible pigment innovation, starch-nanozymes for anti-tumor therapy, and starch-based radiative cooling films for sustainable cooling solutions.
+
