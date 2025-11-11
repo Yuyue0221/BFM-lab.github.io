@@ -78,6 +78,8 @@ title: Research
 
 </div>
 
+We are dedicated to designing and synthesizing conductive hydrogels with exceptional electrical conductivity, long-term stability, mechanical robustness, and superior biocompatibility, and applying them to transformative fields such as brain-machine interfaces, electronic skin, wound dressings, and drug delivery system for advancing bioelectronics and regenerative medicine.
+
 <div class="section-title">Bio-inspired optics</div>
 <div class="research-section">
 
