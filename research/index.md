@@ -67,28 +67,13 @@ title: Research
 </style>
 
 
-<!-- Nanomaterials Section -->
-<div class="section-title">Nanomaterials</div>
+<!-- conductive hydrogels Section -->
+<div class="section-title">conductive hydrogels</div>
 <div class="research-section">
 
   <div class="research-box">
-    <img src="{{ '/images/nanoparticle.png' | relative_url }}" alt="Nanoparticle">
-    <div class="research-box-title">Nanoparticle</div>
-  </div>
-
-  <div class="research-box">
-    <img src="{{ '/images/quantum-dots.png' | relative_url }}" alt="Quantum dots">
-    <div class="research-box-title">Quantum dots</div>
-  </div>
-
-  <div class="research-box">
-    <img src="{{ '/images/nanozyme.png' | relative_url }}" alt="Nanozyme"> 
-    <div class="research-box-title">Nanozyme</div>
-  </div>
-
-  <div class="research-box">
-    <img src="{{ '/images/drug-loading.png' | relative_url }}" alt="Drug loading/biomedical"> 
-    <div class="research-box-title">Drug loading/biomedical</div>
+    <img src="{{ '/images/conductive hydrogels.png' | relative_url }}" alt="conductive hydrogels">
+    <div class="research-box-title">conductive hydrogels</div>
   </div>
 
 </div>
