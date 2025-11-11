@@ -114,6 +114,10 @@ Our team focuses on developing biofunctional nanomaterials in four key areas: in
 
 </div>
 
+Nanozymes are a class of nanomaterials that possess the activity of natural enzymes. They can mimic the catalytic functions of various enzymes, including superoxide dismutase (SOD), catalase (CAT), peroxidase (POD), glutathione peroxidase (GPx), and oxidase (OXD). Compared to natural enzymes, nanozymes offer advantages such as high stability, low cost, ease of regulation, and synergistic multi-enzyme activity.
+
+Nanozymes, by mimicking the catalytic reactions of natural enzymes, have shown great potential in areas such as the treatment of inflammatory bowel disease, food preservation, prevention and treatment of periodontitis, and antibacterial applications.
+
 <!-- Therapeutical Pharmacology and Novel Biomaterials Section -->
 <div class="section-title">Therapeutical Pharmacology and Novel Biomaterials</div>
 <div class="research-section">
