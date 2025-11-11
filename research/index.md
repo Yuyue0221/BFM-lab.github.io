@@ -35,7 +35,7 @@ title: Research
 
 
 .research-box {
-  width: 350px;
+  width: 280px;
   height: 275px;
   background: #fff;
   border-radius: 10px;
