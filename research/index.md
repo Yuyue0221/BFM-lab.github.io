@@ -142,3 +142,6 @@ Nanozymes, by mimicking the catalytic reactions of natural enzymes, have shown g
 Integrating cell technology and tissue engineering, we utilize our designed biomaterials as three-dimensional scaffolds. These scaffolds not only deliver cells and bioactive factors but also create a supportive microenvironment in vivo to facilitate the repair and regeneration of damaged tissues and organs.
 
 We develop intelligent biomaterials that can respond to specific disease microenvironmental cues or external stimuli This allows for precise spatiotemporal control over drug release—ensuring the right dose is delivered to the right place at the right time for on-demand therapy.
+
+Our vision is to serve as a bridge, connecting innovative therapeutics with advanced materials, to usher in a new era of precise, potent, and personalized medicine.
+
