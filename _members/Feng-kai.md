@@ -12,11 +12,11 @@ email: fsnkai.feng@polyu.edu.hk
 
 <h3 style="text-align: left;">Education Background</h3>
 
-2017-2021,  Ph.D in Polymer Chemistry and Physics, Renmin University of China, China
+Ph.D in Polymer Chemistry and Physics, Renmin University of China, China
 
-2014-2017,  M.S. in Chemistry, Inner Mongolia University, China
+M.S. in Chemistry, Inner Mongolia University, China
 
-2010-2014,  B.S. in Chemistry, Qufu Normal University, China
+B.S. in Chemistry, Qufu Normal University, China
 
 
 <h3 style="text-align: left;">Research interests </h3>
@@ -48,6 +48,7 @@ Smart thermal management materials (electrochromic, radiative cooling/phototherm
 9. <strong> Feng, K.</strong>; Lu, M.; Wei, G.; Tang, F.; Jin, Z*. Cellulose Nanocrystals/Poly(3,4-ethylenedioxythiophene) Photonic Crystal Composites with Electrochromic Properties for Smart Windows, Displays, and Anticounterfeiting/Encryption Applications. ACS Applied Nano Materials 2022, 5, 10848-10859.
 
 10. <strong>Feng, K.</strong>; Dong, C.; Gao, Y.; and Jin. Z*. A Green and Iridescent Composite of Cellulose Nanocrystals with Wide Solvent Resistance and Strong Mechanical Properties. ACS Sustainable Chemistry & Engineering 2021, 9, 6764-6775.
+
 
 
 
