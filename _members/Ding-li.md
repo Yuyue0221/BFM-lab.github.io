@@ -12,11 +12,11 @@ email: fsn-li.ding@polyu.edu.hk
 
 <h3 style="text-align: left;">Education Background</h3>
 
-Ph.D in Plant Biology, University of Copenhagen, Denmark. 2020-2024
+Ph.D in Plant Biology, University of Copenhagen, Denmark. 
 
-M.S. in Food Science and Engineering, South China University of Technology, China. 2017-2020.
+M.S. in Food Science and Engineering, South China University of Technology, China. 
 
-B.S. in Food Science and Engineering, South China University of Technology, China. 2013-2017.
+B.S. in Food Science and Engineering, South China University of Technology, China. 
 
 <h3 style="text-align: left;">Research interests</h3>
 
@@ -53,6 +53,7 @@ Crop genetics.
 [10] <strong>L. Ding</strong>, S. Ebrahimi, X. Liu, S. Persson, J.J.K. Kirkensgaard, K. Enemark-Rasmusse, J. Chang, S. Chen, A. Blennow, T.P. Czaja, Y. Zhong, Characterizing maize starch gelatinization by Low-Field NMR spectroscopy, Carbohydrate polymers 369 (2025) 124292.
 
 [11] W. Liang, K. Herburger, K. Guo, J.J.K. Kirkensgaard, K.H. Hebelstrup, S. Persson, S. Chen, Y. Zhong, A. Blennow*, <strong>L. Ding*</strong>, Comparative analysis of supplemental irrigation effects on structure and digestion of normal and amylose-only barley starches, Carbohydrate polymers 370 (2025) 124378.
+
 
 
 
