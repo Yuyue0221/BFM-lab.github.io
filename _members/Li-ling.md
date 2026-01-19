@@ -10,9 +10,9 @@ email: lilingscu2022@163.com
 ---
 <h3 style="text-align: left;">Education Background</h3>
 
-2022-2025, Master in The Light Industry Technology and Engineering, Sichuan University
+Master in The Light Industry Technology and Engineering, Sichuan University
 
-2018-2022, Bachelor in Food Science and Engineering, Sichuan University
+Bachelor in Food Science and Engineering, Sichuan University
 
 <h3 style="text-align: left;">Research interests</h3>
   
@@ -29,3 +29,4 @@ Functional Biomass Materials
 [2]	Li, L., Zhou, C., Xu, Y., et al. An intelligent biomass aerogel label loaded with anthocyanin from wasted peanut seed coat for monitoring chilled chicken freshness[J]. Food Hydrocolloids, 2025, 160: 110731.
 
 [3]	Li, L., Cai, L., Li, D., et al. Effect of gamma irradiation and electron beam irradiation on the quality of vacuum-packed ready-to-eat chicken claws during storage at 25 ± 1 °C[J]. ACS Food Science & Technology, 2024, 4(12): 2925-2936.
+
